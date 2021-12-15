@@ -1,7 +1,7 @@
 const quizForm = document.querySelector(".quiz-form");
 const submitAnswerBtn = document.querySelector("#submit-answer-btn");
 const output = document.querySelector("#output");
-const correctAnswer = ["90°","right angled","180°"];
+const correctAnswer = ["90°","right angled","180°","Equilateral","√3 /4a2","30 cm"];
 
 function calculateScore() {
     let score = 0;

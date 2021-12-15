@@ -33,7 +33,7 @@ nav {
     
 }
 
-.input-text {
+#first-side{
     height: 2rem;
     width: 30%;
     border-radius: 0.5rem;
@@ -41,7 +41,15 @@ nav {
     
 }
 
-#calculate-btn {
+#second-side{
+    height: 2rem;
+    width: 30%;
+    border-radius: 0.5rem;
+    border-color: tomato;
+    
+}
+
+#calculate {
     display: block;
     margin: auto;
     margin-top: 2rem;
@@ -63,7 +71,7 @@ nav {
     
 }
 
-.label-style{
+/* .in-label{
     font-size: 120%;
     font-weight: 700;
     color: #1D4ED8;
@@ -71,4 +79,4 @@ nav {
     padding: 2rem;
     
     
-}
+} */
